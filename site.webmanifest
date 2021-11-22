@@ -1,0 +1,23 @@
+   {
+    "name": "GizmoCircle",
+    "short_name": "GC",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgJx3U5s3EVK2dYvfbYP50GcqYJc8Q-m70v_ziHcBequy_wX9nkWZOwEk29UvUlqEnYO_8mdKfNUqdUAZQVS86PIG7pPgAvhg7iR8OLE5QZtHGj7TF7t7psGi46lHf7r3YYf34FblTGy-cczX_18-g1NEfMXKg9qd5_TBtYzb0kGiGLmZhfOlij6w9v1g",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhwXPie5UWRMEnFdvYmQRGYpgiKa4WvK25mdqVu8Irdc8QIhBg5olzFsAKexAl0v55y8faUv8g6cnuzICKha2KzqU8t593etfEXcXU9svSOUD8DdyxFzAv6RmM3dT9db_kefmVskW-wcNzsJqkXt-XDzjlt_b7lGRsOUN0UN_4keyb8lKIzQz83D9duEg=s320",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.gizmocircle.com"
+}
